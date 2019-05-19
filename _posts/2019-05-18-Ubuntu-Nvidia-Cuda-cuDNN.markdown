@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Install and Setup Ubuntu 16.04 along with Windows 10"
 date:   2019-05-18 22:52:22 -0400
 categories: jekyll update
 ---
